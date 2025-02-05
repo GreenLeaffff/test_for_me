@@ -1,1 +1,2 @@
 UserName = 'user'
+UserPassword = 'password'
