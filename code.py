@@ -1,0 +1,2 @@
+def UserRegister():
+    return True
