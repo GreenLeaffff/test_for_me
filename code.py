@@ -8,3 +8,7 @@ def LoginUser():
 # Logout function
 def LogoutUser():
     return False
+
+# GetUser function
+def GetUser(user):
+    return user.name    
