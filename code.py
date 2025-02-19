@@ -8,3 +8,7 @@ def LoginUser():
 # Logout function
 def LogoutUser():
     return False
+
+# GetFullname
+def GetFullname():
+    pass
