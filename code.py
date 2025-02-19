@@ -11,4 +11,9 @@ def LogoutUser():
 
 # GetUser function
 def GetUser(user):
-    return user.name    
+    return user.name
+    
+        
+# GetFullname
+def GetFullname():
+    pass
